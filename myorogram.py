@@ -5,6 +5,7 @@ def main():
     length = float(input("Enter the rectangle's length: "))
     print(f"The area is {tinhtoan.area(width, length)}")
     print(f"The perimeter is {tinhtoan.perimeter(width, length)}")
+    print("ok")
     
 if __name__ == '__main__':
     main()
